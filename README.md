@@ -1,5 +1,13 @@
 ![image](https://github.com/snehasund/snehasund/blob/main/linkedin-banner-image-5.png)
-### Hi there 👋
+
+🎀 My name is Sneha Sundar, and I'm a statistics & computer science student at the University of Illinois Urbana-Champaign. I'm super passionate about all things data science and machine learning!
+
+☁️ I am currently a developer for the Association for Computing Machinery's Infrastructure Team as well as a Course Aide for Data Science Discovery (STAT/CS/IS 107). 
+
+🧸 All my current / future personal projects will be uploaded to this Gitbhub page. In the meantime, feel free to contact me via my linkedin (https://www.linkedin.com/in/sneha-sundar26 or my email (snehas9@illinois.edu)!
+
+
+
 
 <!--
 **snehasund/snehasund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
