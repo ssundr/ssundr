@@ -6,8 +6,9 @@
 
 🧸 All my current / future personal projects will be uploaded to this Gitbhub page. In the meantime, feel free to contact me via my portfolio website (https://snehasund.github.io/snehasundar.io/) or my linkedin (https://www.linkedin.com/in/sneha-sundar26)!
 
-[![Top Langs (dark)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snehasund&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs (light)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snehasund&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasund)](https://github.com/arribass/github-readme-stats)
+
 
 
 
