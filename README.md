@@ -4,7 +4,7 @@
 
 ☁️ I am currently a developer on the resume book project for the Association for Computing Machinery's Infrastructure Team as well as a Course Aide for Data Science Discovery (STAT/CS/IS 107). 
 
-🧸 All my current / future personal projects will be uploaded to this Gitbhub page. In the meantime, feel free to contact me via my portfolio website (https://snehasund.github.io/snehasundar.io/) or my linkedin (https://www.linkedin.com/in/sneha-sundar26)!
+🧸 All my current / future personal projects will be uploaded to this Gitbhub page. In the meantime, feel free to contact me via my portfolio website (https://snehasund.github.io/) or my linkedin (https://www.linkedin.com/in/sneha-sundar26)!
 
 - 🔭 I’m currently working on a data visualization of the World Happiness Report.
 - 🌱 I’m currently learning R, Flask & React.
