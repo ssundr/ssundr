@@ -1,13 +1,21 @@
 ![image](https://github.com/snehasund/snehasund/blob/main/linkedin-banner-image-5.png)
 
-🎀 My name is Sneha Sundar, and I'm a statistics & computer science student at the University of Illinois Urbana-Champaign. I'm super passionate about all things data science and machine learning!
+<h2> 👋 Hi, I'm Sneha Sundar.</h2>
 
-☁️ I am currently a developer on the resume book project for the Association for Computing Machinery's Infrastructure Team as well as a Course Aide for Data Science Discovery (STAT/CS/IS 107). 
+I'm a statistics & computer science major at the University of Illinois Urbana Champaign currently taking classes in computer systems, linear algebra, statistics and probability, and data science. I'm currently working as a Course Assistant for Data Science Discovery and as a developer for the Association of Computing Machinery's Infrastructure Team on their resume-book project. 
 
-🧸 All my current / future personal projects will be uploaded to this Gitbhub page. In the meantime, feel free to contact me via my portfolio website (https://snehasund.github.io/) or my linkedin (https://www.linkedin.com/in/sneha-sundar26)!
+💡 I'm super passionate about exploring the realms of deep learning, artificial intelligence, and crafting impactful data visualizations. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
 
-- 🔭 I’m currently working on a data visualization of the World Happiness Report.
-- 🌱 I’m currently learning R, Flask & React.
+🚀 In my GitHub repositories, you'll find a collection of projects that reflect my interests and skills. From machine learning implementations to data analysis projects, each repository showcases my dedication to leveraging technology to solve real-world problems. Feel free to explore and delve into the code!
+
+<h2> 🔗 Connect with me:</h2>
+
+LinkedIn: www.linkedin.com/in/sneha-sundar26 <br>
+Portfolio: https://snehasund.github.io <br>
+Email: snehas9@illinois.edu
+
+
+
 
 [![Top Langs (dark)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snehasund&theme=transparent&text_color=ffffff&title_color=ffffff&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs (light)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=snehasund&theme=transparent&text_color=000000&title_color=000000&langs_count=8&size_weight=0.3&count_weight=0.7&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
