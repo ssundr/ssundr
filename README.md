@@ -4,11 +4,11 @@
 
 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
-I'm currently working as a Course Assistant for Data Science Discovery and as a developer for the Association of Computing Machinery's Infrastructure Team on their resume-book project. 
+🦋 I'm currently working as a Course Assistant for Data Science Discovery and as a developer for the Association of Computing Machinery's Infrastructure Team on their resume-book project. 
 
-💡 I'm super passionate about exploring deep learning, artificial intelligence, and creating impactful data visualizations. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
+💭 I'm super passionate about exploring deep learning, artificial intelligence, and creating impactful data visualizations. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
 
-🚀 All of my personal & cirricular projects will be uploaded here to my github. Feel free to explore and delve into the code!
+🎀 All of my personal & cirricular projects will be uploaded here to my github. Feel free to explore and delve into the code!
 
 <h2> 🔗 Connect with me :) </h2>
 
