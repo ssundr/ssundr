@@ -14,6 +14,7 @@ Here's the properly formatted link in HTML and Markdown:
 
 ### 🔗 Connect with me :)
 Check out my [Portfolio Website](http://snehasund.github.io)
+<br>
 Connect with me on [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 
 
