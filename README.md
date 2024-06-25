@@ -13,7 +13,6 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 <h2> 🔗 Connect with me :) </h2>
 
 LinkedIn: www.linkedin.com/in/sneha-sundar26 <br>
-Portfolio: https://snehasund.github.io <br>
 Email: snehas9@illinois.edu
 
 
