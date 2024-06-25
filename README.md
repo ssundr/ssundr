@@ -13,9 +13,9 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 Here's the properly formatted link in HTML and Markdown:
 
 ### 🔗 Connect with me :)
-Check out my [Portfolio Website](http://snehasund.github.io)
+via my [Portfolio Website](http://snehasund.github.io)
 <br>
-Connect with me on [LinkedIn](https://linkedin.com/in/sneha-sundar26)
+or my [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 
 
 
