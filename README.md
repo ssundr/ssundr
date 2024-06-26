@@ -10,8 +10,6 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 
 🎀 All of my personal & cirricular projects will be uploaded here to my github. Feel free to explore and delve into the code!
 
-Here's the properly formatted link in HTML and Markdown:
-
 ### 🔗 Connect with me :)
 via my [Portfolio Website](http://snehasund.github.io)
 <br>
