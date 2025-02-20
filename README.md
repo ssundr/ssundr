@@ -6,11 +6,7 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 
 🦋 I'm currently a part of the Language Interaction Lab at UIUC, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for Data Science Discovery (CS 107). 
 
-🧐 This past summer I was a software engineer intern at [Arrcus](https://www.arrcus.com) on their Customer Solutions Engineering Team.
-
 💭 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
-
-🎀 All of my personal & cirricular projects will be uploaded here to my github. Feel free to explore and delve into the code!
 
 ### 🔗 Connect with me :)
 *via my* [Portfolio Website](http://snehasund.github.io)
