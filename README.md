@@ -13,7 +13,7 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 <br>
 *or my* [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasund)](https://github.com/snehasund/github-readme-stats)
 
 <!--
 **snehasund/snehasund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
