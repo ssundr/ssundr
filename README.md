@@ -14,7 +14,7 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 *or my* [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 
 
-
+![s's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehasund&show_icons=true&theme=radical)
 
 
 
