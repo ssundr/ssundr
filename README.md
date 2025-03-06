@@ -1,6 +1,6 @@
 ![image](https://github.com/snehasund/snehasund/blob/main/linkedin-banner-image-5.png)
 
-<h2> 💌 Hi, I'm Sneha!</h2>
+<h2> 💌 hi, i'm sneha!</h2>
 
 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
