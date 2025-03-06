@@ -13,7 +13,8 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 <br>
 *or my* [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 <br>
-<a>guess my favorite language ;)</a>
+<br>
+<a>guess my favorite language :)</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasund&layout=donut)](https://github.com/snehasund/github-readme-stats)
 
