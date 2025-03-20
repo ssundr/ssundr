@@ -14,14 +14,12 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 *or my* [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 <br>
 <br>
+<a>guess my favorite language :)</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasund&layout=donut)](https://github.com/snehasund/github-readme-stats)
+<br>
 <a>currently listening to</a>
 <br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yrdx9cjomyimpn58jrrwau7ua&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=yrdx9cjomyimpn58jrrwau7ua&redirect=true)
-<a>guess my favorite language :)</a>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasund&layout=donut)](https://github.com/snehasund/github-readme-stats)
 
 <!--
 **snehasund/snehasund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
