@@ -1,6 +1,6 @@
-<h2> 💌 hi, i'm sneha & i'm so glad you're here :)</h2>
+<h2> 💌 hey there :)</h2>
 
-🧡 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
+🧡 I'm Sneha, a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
 💙 I'm currently a part of the Language Interaction Lab at UIUC, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for Data Science Discovery (CS 107). 
 
