@@ -15,6 +15,7 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 <br>
 <br>
 <a>currently listening to</a>
+<br>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yrdx9cjomyimpn58jrrwau7ua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <a>guess my favorite language :)</a>
 
