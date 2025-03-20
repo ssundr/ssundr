@@ -6,7 +6,7 @@
 
 💭 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
 
-### 🔗 Connect with me :)
+### 🔗 Connect with me!
 *via my* [Portfolio Website](http://snehasund.github.io)
 <br>
 *or my* [LinkedIn](https://linkedin.com/in/sneha-sundar26)
