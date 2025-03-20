@@ -15,10 +15,11 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 <br>
 <br>
 <a>currently listening to</a>
-<a href="https://www.last.fm/user/snebby">
-  <img src="https://spotify-readme-jet.vercel.app/api" alt="Current Spotify Song">
+<a href="https://open.spotify.com/track/7yLk2Un8F6uq6cgeuhV7qZ">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739e6d88b742cb3e15ac3d5f12" alt="Something, Somehow, Someday by Role Model">
 </a>
 <a>guess my favorite language :)</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasund&layout=donut)](https://github.com/snehasund/github-readme-stats)
 
