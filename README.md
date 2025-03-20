@@ -15,7 +15,7 @@ I'm a statistics & computer science major at the University of Illinois Urbana-C
 <br>
 <br>
 <a>currently listening to</a>
-<a href="https://open.spotify.com/track/7yLk2Un8F6uq6cgeuhV7qZ">
+<a href="[https://open.spotify.com/track/7yLk2Un8F6uq6cgeuhV7qZ](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f)">
   <img src="https://i.scdn.co/image/ab67616d0000b2739e6d88b742cb3e15ac3d5f12" alt="Something, Somehow, Someday by Role Model">
 </a>
 <a>guess my favorite language :)</a>
