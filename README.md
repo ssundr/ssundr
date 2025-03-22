@@ -1,4 +1,10 @@
-<h2> 💌 hey there :)</h2>
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=hey+there+%3A%29&color=FFFFFF&font=Fira+Code" 
+    alt="Typing SVG" 
+    style="display: block; margin: 0 auto;" 
+  />
+</a>
 
 🧡 I'm Sneha, a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
@@ -11,11 +17,6 @@
 <br>
 *or my* [LinkedIn](https://linkedin.com/in/sneha-sundar26)
 <br>
-
-<h2>currently listening to !!</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yrdx9cjomyimpn58jrrwau7ua&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yrdx9cjomyimpn58jrrwau7ua&redirect=true)
-
 <!--
 **snehasund/snehasund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
