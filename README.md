@@ -1,12 +1,12 @@
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=hey+there+%3A%29&color=FFFFFF&font=Fira+Code" 
+    src="https://readme-typing-svg.demolab.com/?lines=hi,+i'm+sneha+%3A%29&color=FFFFFF&font=Fira+Code" 
     alt="Typing SVG" 
     style="display: block; margin: 0 auto;" 
   />
 </a>
 
-🧡 I'm Sneha, a statistics & computer science major at the University of Illinois Urbana-Champaign.
+🧡 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
 💙 I'm currently a part of the Language Interaction Lab at UIUC, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for Data Science Discovery (CS 107). 
 
