@@ -12,6 +12,30 @@
 
 💭 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
 
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com/?lines=my+fav+tech+!+&color=FFFFFF&font=Fira+Code" 
+    alt="Typing SVG" 
+    style="display: block; margin: 0 auto;" 
+  />
+</a>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  </div>
+</div>
+
+
+
 ### 🔗 Connect with me!
 *via my* [Portfolio Website](http://snehasund.github.io)
 <br>
