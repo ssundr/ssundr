@@ -37,9 +37,6 @@
     <a href="https://en.cppreference.com/w/" target="_blank" title="C++ Documentation">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C# Documentation">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-    </a>
     <a href="https://reactjs.org/docs/getting-started.html" target="_blank" title="React Documentation">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
     </a>
