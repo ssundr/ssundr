@@ -8,7 +8,7 @@
 
 🧡 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
-💙 At UIUC, I'm a part of the Language Interaction Lab at UIUC, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for Data Science Discovery (CS 107). 
+💙 At UIUC, I'm a part of the Language Interaction Lab, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for Data Science Discovery (CS 107). 
 
 💭 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
 
