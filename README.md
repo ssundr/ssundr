@@ -10,7 +10,7 @@
 
 💙 Check out my [portfolio website](http://ssundr.github.io) and feel free to reach out or connect with me on [Linkedin](https://linkedin.com/in/ssundr)!
 
-
+#### (some of) my tech stack !!
 
 <a href="https://git.io/typing-svg">
   <img 
