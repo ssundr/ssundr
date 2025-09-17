@@ -53,7 +53,7 @@
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="65" />
     </a>
     <a href="https://docs.github.com/en/rest?apiVersion=2022-11-28" target="_blank" title="REST API Documentation">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="65" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="65" />
     </a>
     <a href="https://eslint.org/" target="_blank" title="ESLINT">
       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="45" height="65" />
