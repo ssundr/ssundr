@@ -45,14 +45,6 @@
   </div>
 </div>
 
-
-
-
-### 🔗 Connect with me!
-*via my* [Portfolio Website](http://ssundr.github.io)
-<br>
-*or my* [LinkedIn](https://linkedin.com/in/ssundr)
-<br>
 <!--
 **snehasund/snehasund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
