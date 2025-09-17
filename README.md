@@ -20,7 +20,7 @@
   />
 </a>
 
-<div align="left">
+<div align="center">
   <div style="display: flex; align-items: flex-start; gap: 10px;">
     <a href="https://docs.python.org/3/" target="_blank" title="Python Documentation">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="65" />
