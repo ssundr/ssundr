@@ -1,12 +1,16 @@
 <h1 style="text-align: center; color: white; font-family: 'Fira Code', monospace; font-weight: 900; font-size: 32px;">
-  hi, i'm sneha :)
+  Hi, I'm Sneha :)
 </h1>
 
 🧡 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
 💙 At UIUC, I'm a part of the Language Interaction Lab, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for Data Science Discovery (CS 107). 
 
-💭 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
+🧡 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
+
+💙 Check out my [portfolio website](http://ssundr.github.io) and feel free to reach out or connect with me on [Linkedin](https://linkedin.com/in/ssundr)!
+
+
 
 <a href="https://git.io/typing-svg">
   <img 
