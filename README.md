@@ -8,7 +8,7 @@
 
 🧡 I'm super passionate about exploring deep learning, artificial intelligence, and social computing. I'm always trying to delve deeper into understanding complex algorithms, enhancing predictive models, and finding innovative ways to present insights from data.
 
-💙 Check out my [portfolio website](http://ssundr.github.io) and feel free to reach out or connect with me on [Linkedin](https://linkedin.com/in/ssundr)!
+💙 Check out my [portfolio website](http://ssundr.github.io) and feel free to reach out via <a href="mailto:snehas9\@illinois.edu">email</a> or connect with me on [Linkedin](https://linkedin.com/in/ssundr)!
 
 #### (some of) my tech stack !!
 
