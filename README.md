@@ -1,10 +1,6 @@
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=hi,+i'm+sneha+%3A%29&color=FFFFFF&font=Fira+Code" 
-    alt="Typing SVG" 
-    style="display: block; margin: 0 auto;" 
-  />
-</a>
+<h1 style="text-align: center; color: white; font-family: 'Fira Code', monospace; font-weight: 900; font-size: 32px;">
+  hi, i'm sneha :)
+</h1>
 
 🧡 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
 
