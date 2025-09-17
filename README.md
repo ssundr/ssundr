@@ -47,10 +47,10 @@
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="65" />
     </a>
     <a href="https://docs.docker.com/" target="_blank" title="Docker Documentation">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="65" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="65" />
     </a>
     <a href="https://docs.aws.amazon.com/" target="_blank" title="AWS Documentation">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="65" />
     </a>
     <a href="https://docs.github.com/en/rest?apiVersion=2022-11-28" target="_blank" title="REST API Documentation">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="65" />
