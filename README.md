@@ -23,7 +23,7 @@
 <div align="left">
   <div style="display: flex; align-items: flex-start; gap: 10px;">
     <a href="https://docs.python.org/3/" target="_blank" title="Python Documentation">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="65" />
     </a>
     <a href="https://docs.oracle.com/en/java/" target="_blank" title="Java Documentation">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
