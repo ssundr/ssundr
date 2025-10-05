@@ -61,9 +61,6 @@
     <a href="https://cloud.google.com/products/compute?gad_campaignid=22970352666" target="_blank" title="gcp docs">
       <img src="https://camo.githubusercontent.com/d483c5ba712a0ab3afb1f9e4eeb70d1e91050d59e2a6ea44d9d706b3b620af2d/68747470733a2f2f74656368737461636b2d67656e657261746f722d7473672e76657263656c2e6170702f6763702d69636f6e2e737667" alt="icon" width="45" height = "65" />  
     </a>
-    <a href="https://jestjs.io/" target="_blank" title="JEST docs">
-      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="45" height="65" />
-    </a>
   </div>
 </div>
 
