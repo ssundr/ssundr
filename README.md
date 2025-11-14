@@ -2,11 +2,11 @@
   Hi, I'm Sneha :)
 </h1>
 
-🧡 I'm a statistics & computer science major at the University of Illinois Urbana-Champaign.
+🧡 I'm a senior majoring in Computer Science & Statistics at the UIUC!
 
-💙 At UIUC, I'm a part of the Language Interaction Lab, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as a Course Assistant for [Data Science Discovery (CS 107)](https://discovery.cs.illinois.edu/syllabus/). 
+💙 At UIUC, I'm a part of the Language Interaction Lab, working with [Dr. Tal August](https://talaugust.github.io/) to evaluate certainty in academic citations. I'm also working as an undergraduate TA for [Data Science Discovery (CS 107)](https://discovery.cs.illinois.edu/syllabus/). 
 
-💙 Check out my [portfolio website](http://ssundr.github.io) and feel free to reach out via <a href="mailto:snehas9\@illinois.edu">email</a> or connect with me on [Linkedin](https://linkedin.com/in/ssundr)!
+🧡 Check out my [portfolio website](http://ssundr.github.io) and feel free to reach out at <a href="mailto:snehas9\@illinois.edu">snehas9@illinois.edu</a> or connect with me on [Linkedin](https://linkedin.com/in/ssundr)!
 
 #### (some of) my tech stack !!
 
